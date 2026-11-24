@@ -1,5 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 204" role="img" aria-label="jmal423 — Software and hardware">
-<defs><pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#28364b" stroke-width="1"/></pattern></defs>
-<rect width="960" height="204" rx="16" fill="#101923"/>
-<rect x="548" y="12" width="390" height="180" fill="url(#grid)"/>
-<g font-family="monospace" fill="#81e4ca"><text x="42" y="50" font-size="18">SOFTWARE / HARDWARE</text><text x="42" y="147" fill="#f0f4fa" font-family="Arial,sans-serif" font-weight="700" font-size="88" letter-spacing="-5">jmal423</text><path d="M689 48l-40 54 40 54m115-108 40 54-40 54" fill="none" stroke="#81e4ca" stroke-width="12"/><path d="m770 45-45 115" stroke="#a59aff" stroke-width="12"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 200" role="img" aria-labelledby="title">
+  <title id="title">jmal423 · Software and hardware</title>
+  <defs>
+    <linearGradient id="board"><stop stop-color="#111d24"/><stop offset="1" stop-color="#132e34"/></linearGradient>
+    <pattern id="pins" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="8" cy="8" r="1.2" fill="#73acaa" opacity=".28"/></pattern>
+  </defs>
+  <rect width="960" height="200" rx="14" fill="url(#board)"/>
+  <rect x="500" y="8" width="448" height="184" fill="url(#pins)"/>
+  <g fill="none" stroke-linejoin="round" stroke-linecap="round">
+    <path stroke="#f0b27c" stroke-width="4" d="M540 64h45l35 35h67m-98 49h40l27-27h31"/>
+    <path stroke="#75d5c2" stroke-width="4" d="M547 102h41l24 24m154-44h52l35-35h41m-128 61h58l29 29h50m-137-8h29l35 35h43"/>
+    <rect x="686" y="54" width="83" height="98" rx="9" stroke="#82a9a8" stroke-width="2" fill="#11242b"/>
+    <path stroke="#c7ece0" stroke-width="4" d="m706 89 12 12-12 12m20 1h17"/>
+    <g stroke="#f0b27c" stroke-width="3"><circle cx="535" cy="64" r="5"/><circle cx="584" cy="148" r="5"/></g>
+    <g stroke="#75d5c2" stroke-width="3"><circle cx="899" cy="47" r="5"/><circle cx="908" cy="137" r="5"/><circle cx="878" cy="164" r="5"/></g>
+  </g>
+  <text x="42" y="107" fill="#f2f5ed" font-family="Arial,sans-serif" font-size="84" font-weight="700" letter-spacing="-5">jmal423</text>
+  <text x="47" y="155" fill="#9adbc9" font-family="monospace" font-size="22">Software &amp; hardware</text>
+</svg>
