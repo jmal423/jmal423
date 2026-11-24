@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 200" role="img" aria-labelledby="title">
-  <title id="title">jmal423 · Software and hardware</title>
+  <title id="title">Software and hardware</title>
   <defs>
     <linearGradient id="board"><stop stop-color="#111d24"/><stop offset="1" stop-color="#132e34"/></linearGradient>
     <pattern id="pins" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="8" cy="8" r="1.2" fill="#73acaa" opacity=".28"/></pattern>
@@ -14,6 +14,7 @@
     <g stroke="#f0b27c" stroke-width="3"><circle cx="535" cy="64" r="5"/><circle cx="584" cy="148" r="5"/></g>
     <g stroke="#75d5c2" stroke-width="3"><circle cx="899" cy="47" r="5"/><circle cx="908" cy="137" r="5"/><circle cx="878" cy="164" r="5"/></g>
   </g>
-  <text x="42" y="107" fill="#f2f5ed" font-family="Arial,sans-serif" font-size="84" font-weight="700" letter-spacing="-5">jmal423</text>
-  <text x="47" y="155" fill="#9adbc9" font-family="monospace" font-size="22">Software &amp; hardware</text>
+  <text x="42" y="107" fill="#f2f5ed" font-family="Arial,sans-serif" font-size="84" font-weight="700" letter-spacing="-5">Software</text>
+  <text x="47" y="155" fill="#9adbc9" font-family="monospace" font-size="22">&amp; hardware</text>
 </svg>
+
