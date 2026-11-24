@@ -1,18 +1,11 @@
-![jmal423 — C and Linux](./assets/profile.svg)
+![jmal423 — Software and hardware](./assets/profile.svg)
 
-[Valgrind42](https://github.com/jmal423/valgrind42) · [GitHub activity](#github-activity)
+I'm curious about how things work, whether I'm reading C code, tracing a problem on Linux or taking a phone apart. When something breaks, I like figuring out why. My first move is usually to reproduce the problem, change one thing and see what happens.
+
+**Software.** I can read and write C, follow how a program uses memory and use Python for small scripts. I'm comfortable working in a Linux terminal and narrowing down where something goes wrong.
+
+**Hardware.** I can take apart and reassemble phones and PCs, troubleshoot components and test a repair. I enjoy the part where a symptom gives me a clue and I have to work out what to check next.
 
 ## GitHub activity
 
 [![Contribution calendar for the past year](./assets/contributions.svg)](https://github.com/users/jmal423/contributions)
-
-## Valgrind42
-
-**What did this program forget to free?** I built Valgrind42 to help answer that question in C exercises at 42. It tracks heap allocations on Linux and prints a summary when the program exits.
-
-~~~text
-in use at exit: 4 bytes in 1 blocks
-total heap usage: 1 allocs, 0 frees, 4 bytes allocated
-~~~
-
-One allocation, zero frees. Follow that allocation through the [C implementation](https://github.com/jmal423/valgrind42/blob/HEAD/src/valgrind_hook.c), or [compare the clean and leaking runs](https://github.com/jmal423/valgrind42#readme).
