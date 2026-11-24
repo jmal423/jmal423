@@ -1,5 +1,9 @@
 ![jmal423 — Multiplayer games and Linux tools](./assets/profile.svg)
 
+## GitHub activity
+
+[![Public GitHub contributions over the past year](./assets/contributions.svg)](https://github.com/users/jmal423/contributions)
+
 ## BlindTest · Name that track
 
 A song clip starts. Everyone in the room races to guess the artist and title, and the scoreboard updates as guesses come in. I built BlindTest for the browser and for friends playing together in a Discord voice channel.
@@ -18,3 +22,4 @@ total heap usage: 1 allocs, 0 frees, 4 bytes allocated
 ~~~
 
 [Explore Valgrind42 →](https://github.com/jmal423/valgrind42)　·　[Read the allocation hook](https://github.com/jmal423/valgrind42/blob/HEAD/src/valgrind_hook.c)
+
